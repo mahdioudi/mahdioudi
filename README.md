@@ -36,42 +36,33 @@
 
 ---
 
----
-
-### 🧪 Terminal Snapshot
-
----
-
-### 🧪 Terminal Snapshot
-
----
-
 ### 👁️‍🗨️ Ghostshell Recon Terminal  
 🕳️ Accessing target memory... do not blink.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=%24+./ghostscan+--host+192.168.1.103" alt="line1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=%24+sudo+nmap+-sV+192.168.1.103" alt="line1" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=[+]+Spectral+scan+started..." alt="line2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=[+]+Scanning+host+192.168.1.103..." alt="line2" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=[+]+Port+22:+OpenSSH" alt="line3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=22/tcp+open+ssh+OpenSSH+8.2" alt="line3" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=[+]+Port+8080:+Web+interface" alt="line4" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=80/tcp+open+http+Apache+2.4.41" alt="line4" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=[!]+Backdoor+found+in+login.php" alt="line5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=%24+python3+exploit.py+--target+192.168.1.103" alt="line5" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=Shell+connected+on+31337" alt="line6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=[!]+Found+LFI+vulnerability+on+/etc/passwd" alt="line6" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=Identity:+ghost@shadow" alt="line7" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=[$]+Session+established+on+port+1337" alt="line7" />
 </p>
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=[*]+Access+Level:+root" alt="line8" />
+</p>
 ---
 
 ### 📁 Projects & Labs
