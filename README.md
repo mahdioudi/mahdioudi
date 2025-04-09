@@ -1,10 +1,11 @@
 <h1 align="center">🟣 Mahdi Oudi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&multiline=true&width=600&lines=Security+in+Silence...;Crafting+Code+in+Purple+Shadow;Welcome+to+My+World+%F0%9F%90%BE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&multiline=true&width=600&lines=Security+in+Silence...;" alt="Typing SVG" />
 </p>
 
-<br/>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mahdioudi/mahdioudi/main/image.png" width="320" alt="Cybercat" />
