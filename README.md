@@ -1,80 +1,72 @@
-<h1 align="center">🐾 Mahdi Oudi</h1>
+<h1 align="center">🧿 Mahdi Oudi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FFB3&center=true&vCenter=true&multiline=true&width=500&lines=Security+%26+Silence...;Frontend+%7C+Pentest+%7C+Python+Craftsman;Trust+the+cat+that+walks+alone+%F0%9F%90%BE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=600&lines=Hack+The+World+Silently...;Code+Like+a+Witch+%7C+Strike+Like+a+Cat;Welcome+to+my+Arcane+Terminal+%F0%9F%8E%84" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/mahdioudi/mahdioudi/assets/your-cat-banner-id-here" width="100%" />
+  <img src="https://media.giphy.com/media/iN5dGYbD7XSLm/giphy.gif" width="180" />
 </p>
 
 ---
 
-### 👁️‍🗨️ whoami
+### 🧙 whoami
 
 ```bash
 > Mahdi Oudi
-> Computer Engineering @ AUT
-> Obsessed with deep dives into Web Security, Brute Force, Recon, and beautiful code
+> Arcane Developer | Cyber Occultist | Terminal Dweller
+> AUT Computer Engineering
 ```
 
 ---
 
-### 🧪 Currently Crafting...
-
-| 🎯 | تمرین یا پروژه |
-|----|----------------|
-| 🕷️ | Brute Force kits (Juice Shop / THM) |
-| 🐾 | Network recon and packet sniffing |
-| 🧱 | VPN configs (the kind not meant to be spoken about...) |
-| 🤖 | Telegram bots for logging and hash ops |
-| 🧊 | Minimalist Java UIs for security tools |
-
----
-
-### 🔧 Stack & Tools
+### 🧰 My Spellbook (Tech Stack)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali-Linux-282828?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp-Suite-orange?style=flat-square&logo=burpsuite" />
-  <img src="https://img.shields.io/badge/Python-3.x-yellow?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-Terminal-green?style=flat-square&logo=gnubash" />
-  <img src="https://img.shields.io/badge/🐱-purring-silently-303030?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kali-Linux-5F00BA?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Arcane-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-🧪-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-Dark%20Frontend-8A2BE2?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Bash-Scripted%20Summons-4B0082?style=for-the-badge&logo=gnubash" />
+  <img src="https://img.shields.io/badge/%F0%9F%90%BE-Cloaked%20Presence-black?style=for-the-badge" />
 </p>
 
 ---
 
-### 📁 Repo Showcase
+### 📁 Dark Projects
 
-- [`Brute-Force-Labs`](https://github.com/mahdioudi/Brute-Force-Labs) — login bypass, wordlist attack notes  
-- [`Sniffed`](https://github.com/mahdioudi/Sniffed) — DNS, HTTP analysis w/ Wireshark  
-- [`CatNet`](https://github.com/mahdioudi/CatNet) — experimental tunnel configs  
-- [`BotOps`](https://github.com/mahdioudi/BotOps) — telegram bots, CLI ops  
-- [`ShadowUI`](https://github.com/mahdioudi/ShadowUI) — Java GUI for security tasks  
-
----
-
-### 💡 Philosophy
-
-> *"Simplicity is the ultimate sophistication."*  
-> *Silence is strength. So is stealth.*  
-> *The cat doesn't ask permission to enter a system... it just finds the way.*
+| 🌑 | پروژه یا تمرین |
+|----|----------------|
+| 🧪 | Brute Force rituals (Juice Shop + TryHackMe) |
+| 📡 | Listening to the netherwaves (network sniffing) |
+| 🧱 | Cloaked VPN tunnels — shadow configs |
+| 🐾 | Telegram familiars (bots for hash, logs, alerts) |
+| 🧊 | UI spells forged in Java with arcane structure |
 
 ---
 
-### 📫 Contact Me
+### 🔮 My Rituals (Goals)
+
+- 🧠 Master the art of digital intrusion (CEH, OSCP)  
+- 🕸️ Contribute tools to the open-source occult  
+- 🧪 Report vulnerabilities from the shadows (bug bounty)  
+- 📜 Create Persian spells (docs) for aspiring cyberwitches  
+
+---
+
+### 📫 Summon Me
 
 ```bash
 📧 mahdioudi5@gmail.com  
 🔗 linkedin.com/in/mahdi-oudi-24baa7315  
-💬 Telegram → @mahdioudi
+💬 Telegram: @mahdioudi
 ```
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="150" /><br>
-  <sub><code>🐾 No logs. Just claws.</code></sub><br>
-  <sub>📍 Tehran — Terminal open. Vibes encrypted.</sub>
+  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="140" /><br>
+  <sub><code>🕯️ Darkness is just well-placed silence.</code></sub><br>
+  <sub><code>🐾 Black cats don't ask for access. They already own the system.</code></sub><br>
+  <sub><code>📍 From the dark side of Tehran. Terminal always open.</code></sub>
 </p>
