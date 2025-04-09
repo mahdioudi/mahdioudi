@@ -1,12 +1,11 @@
 <h1 align="center">🟣 Mahdi Oudi</h1>
 
+<!-- فقط یک خط انیمیشن بالا -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&multiline=true&width=600&lines=Security+in+Silence...;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Connecting+to+192.168.1.103..." alt="connecting-animation" />
 </p>
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
+<!-- گربه سایبری -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/mahdioudi/mahdioudi/main/image.png" width="320" alt="Cybercat" />
 </p>
@@ -37,7 +36,45 @@
 
 ---
 
-### 🧪 Projects & Labs
+---
+
+### 🧪 Terminal Snapshot
+
+---
+
+### 🧪 Terminal Snapshot
+
+---
+
+### 👁️‍🗨️ Ghostshell Recon Terminal  
+🕳️ Accessing target memory... do not blink.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=%24+./ghostscan+--host+192.168.1.103" alt="line1" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=[+]+Spectral+scan+started..." alt="line2" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=[+]+Port+22:+OpenSSH" alt="line3" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=[+]+Port+8080:+Web+interface" alt="line4" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=[!]+Backdoor+found+in+login.php" alt="line5" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=Shell+connected+on+31337" alt="line6" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=A020F0&width=700&lines=Identity:+ghost@shadow" alt="line7" />
+</p>
+
+
+---
+
+### 📁 Projects & Labs
 
 | پروژه | توضیح |
 |-------|--------|
